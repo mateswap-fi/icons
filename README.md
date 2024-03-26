@@ -1,3 +1,3 @@
-# BoneSwap Icons
+# MateSwap Icons
 
 ...
